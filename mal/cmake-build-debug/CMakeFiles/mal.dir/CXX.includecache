@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mikoaj/Pulpit/Coding/ASD/ZAJECIA_1/mal/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+set
+-
+utility
+-
+assert.h
+-
+time.h
+-
+chrono
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PRZ_EASY.dir/main.cpp.o  -o PRZ_EASY 

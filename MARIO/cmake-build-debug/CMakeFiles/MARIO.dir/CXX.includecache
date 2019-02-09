@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mikoaj/Pulpit/Coding/ASD/ZAJECIA_1/MARIO/main.cpp
+iostream
+-
+queue
+-
+unordered_set
+-
+

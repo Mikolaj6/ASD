@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ROD_EASY.dir/main.cpp.o  -o ROD_EASY 

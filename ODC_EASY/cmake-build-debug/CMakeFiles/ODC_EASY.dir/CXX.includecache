@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mikoaj/Pulpit/Coding/ASD/ODC_EASY/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

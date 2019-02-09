@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ODC_EASY.dir/main.cpp.o  -o ODC_EASY 

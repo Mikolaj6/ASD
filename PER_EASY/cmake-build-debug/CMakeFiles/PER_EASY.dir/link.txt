@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PER_EASY.dir/main.cpp.o  -o PER_EASY 

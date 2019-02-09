@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ZOL_EASY.dir/main.cpp.o  -o ZOL_EASY 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SKI_EASY.dir/main.cpp.o  -o SKI_EASY 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/WZN_EASY.dir/main.cpp.o  -o WZN_EASY 
